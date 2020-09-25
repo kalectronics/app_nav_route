@@ -32,7 +32,7 @@ class AppWithTheme extends StatelessWidget {
 }
 
 class Store extends StatelessWidget {
-  final List<String> items = ["Item 1", "Item 2", "Item 3", "Item 4", "Item 5"];
+  final List<String> items = ["Item 1", "Item 2", "Item 3", "Item 4", "Item 6"];
   final List<String> price = ["35", "11", "12", "13", "14"];
   @override
   Widget build(BuildContext context) {
